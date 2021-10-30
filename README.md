@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://thumbs.gfycat.com/CheerfulOblongDowitcher-max-1mb.gif' title='Deliverable 1' width='' alt='Video Walkthrough' />
+<img src='https://thumbs.gfycat.com/CheerfulOblongDowitcher-size_restricted.gif' title='Deliverable 1' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 

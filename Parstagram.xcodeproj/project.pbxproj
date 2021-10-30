@@ -21,6 +21,7 @@
 		B56847F8272334490046683C /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56847F7272334490046683C /* FeedViewController.swift */; };
 		B56847FA272374D50046683C /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56847F9272374D50046683C /* CameraViewController.swift */; };
 		B56847FC272390DD0046683C /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B56847FB272390DD0046683C /* PostCell.swift */; };
+		B5B36968272CDE3800F10988 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5B36967272CDE3800F10988 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		B56847F7272334490046683C /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		B56847F9272374D50046683C /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		B56847FB272390DD0046683C /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		B5B36967272CDE3800F10988 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -148,6 +150,7 @@
 				B56847C527232FF40046683C /* AppDelegate.swift */,
 				B56847C727232FF40046683C /* SceneDelegate.swift */,
 				B56847CB27232FF40046683C /* Main.storyboard */,
+				B5B36967272CDE3800F10988 /* CommentCell.swift */,
 				B56847CE27232FF60046683C /* Assets.xcassets */,
 				B56847D027232FF60046683C /* LaunchScreen.storyboard */,
 				B56847D327232FF60046683C /* Info.plist */,
@@ -421,6 +424,7 @@
 				B56847F8272334490046683C /* FeedViewController.swift in Sources */,
 				B56847C827232FF40046683C /* SceneDelegate.swift in Sources */,
 				B56847FC272390DD0046683C /* PostCell.swift in Sources */,
+				B5B36968272CDE3800F10988 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

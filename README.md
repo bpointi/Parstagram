@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/bpointi/Parstagram/blob/main/gifs/Screen%20Recording%202021-10-30%20at%201.00.46%20AM.gif' title='Deliverable 1' width='' alt='Video Walkthrough' />
+<img src='https://gfycat.com/politicalallasianlion' title='Deliverable 1' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part I
 
